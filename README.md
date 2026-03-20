@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://ramashankarmishra.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ramashankar-m"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.producthunt.com/@mishrar"><img src="https://img.shields.io/badge/Product%20Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" /></a>
+  <a href="https://ramashankarmishra.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ramashankar-m" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.producthunt.com/@mishrar" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Product%20Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" /></a>
 </p>
 
 ---
@@ -59,7 +59,7 @@ I focus on building things that are:
 > *(Pin your best 3–4 repos on your profile — this section reinforces them)*
 
 * 🧠 Flagship Project → *(your main product)*
-* 💰 Product Hunt Launch → https://www.producthunt.com/@mishrar
+* 💰 Product Hunt Launch → <a href="https://www.producthunt.com/@mishrar" target="_blank" rel="noopener noreferrer">https://www.producthunt.com/@mishrar</a>
 * ⚙️ Backend / System Project → *(add link)*
 
 ---
@@ -117,9 +117,9 @@ I focus on building things that are:
 
 ## 🤝 Connect
 
-* 🌐 https://ramashankarmishra.vercel.app/
-* 💼 https://linkedin.com/in/ramashankar-m
-* 🔥 https://www.producthunt.com/@mishrar
+* 🌐 <a href="https://ramashankarmishra.vercel.app/" target="_blank" rel="noopener noreferrer">https://ramashankarmishra.vercel.app/</a>
+* 💼 <a href="https://linkedin.com/in/ramashankar-m" target="_blank" rel="noopener noreferrer">https://linkedin.com/in/ramashankar-m</a>
+* 🔥 <a href="https://www.producthunt.com/@mishrar" target="_blank" rel="noopener noreferrer">https://www.producthunt.com/@mishrar</a>
 
 ---
 
