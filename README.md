@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Ramashankar Mishra</h1>
 
 <p align="center">
-  <strong>Product Engineer crafting useful, scalable digital experiences with clean execution.</strong>
+  <strong>Technical Architect building production-grade Generative AI and scalable cloud systems.</strong>
 </p>
 
 <p align="center">
@@ -10,39 +10,39 @@
 </p>
 
 <p align="center">
-  <a href="https://ramashankarmishra.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ramashankar-m" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.producthunt.com/@mishrar" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Product%20Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" /></a>
+  <a href="https://ramashankarmishra.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ramashankar-m"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.producthunt.com/@mishrar"><img src="https://img.shields.io/badge/Product%20Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🚀 Professional Snapshot
 
-* Building and shipping products from concept → launch → iteration
-* Focused on UX clarity, performance, and real-world impact
-* Comfortable across product thinking, engineering, and execution
-* Strong bias for action with fast feedback loops
+* Architecting production-grade Generative AI solutions end-to-end
+* Designing scalable cloud systems with reliability, observability, and cost efficiency
+* Leading enterprise integrations across APIs, platforms, and business workflows
+* Building with Java, Python, and polyglot stacks to deliver measurable outcomes
 
 ---
 
 ## 🧠 About Me
 
-I enjoy turning ambiguity into structured, high-quality products.
+I translate ambiguous business problems into production-ready architecture and dependable systems.
 
-I focus on building things that are:
+I focus on building platforms that are:
 
-* genuinely useful
-* simple to understand
-* reliable at scale
+* secure and enterprise-ready
+* easy for teams to operate and evolve
+* resilient, observable, and scalable in production
 
 ---
 
 ## ⚡ Current Focus
 
-* 🧠 Exploring AI-powered applications
-* ⚙️ Improving system design & backend scalability
-* 🚀 Shipping small, fast, high-impact products
+* 🧠 Architecting GenAI copilots and RAG-driven enterprise use cases
+* ☁️ Scaling cloud-native platforms on AWS with performance and cost controls
+* � Designing robust integration layers across enterprise systems
 
 ---
 
@@ -56,9 +56,9 @@ I focus on building things that are:
 
 ## 🚀 Featured Work
 
-* 🧠 Flagship Project → *Savlekha*
-* 💰 Product Hunt Launch → <a href="https://www.producthunt.com/@mishrar" target="_blank" rel="noopener noreferrer">https://www.producthunt.com/@mishrar</a>
-* ⚙️ Backend / System Project → *Svalekha*
+* 🧠 Flagship Project → **Savlekha**
+* 💰 Product Hunt Launch → [producthunt.com/@mishrar](https://www.producthunt.com/@mishrar)
+* ⚙️ Backend / System Project → **Savlekha Platform Services**
 
 ---
 
@@ -83,22 +83,6 @@ I focus on building things that are:
 
 ---
 
-## ⏱️ Weekly Dev Breakdown
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
----
-
-## 📰 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🐍 Contribution Graph
 
 <p align="center">
@@ -115,9 +99,9 @@ I focus on building things that are:
 
 ## 🤝 Connect
 
-* 🌐 <a href="https://ramashankarmishra.vercel.app/" target="_blank" rel="noopener noreferrer">https://ramashankarmishra.vercel.app/</a>
-* 💼 <a href="https://linkedin.com/in/ramashankar-m" target="_blank" rel="noopener noreferrer">https://linkedin.com/in/ramashankar-m</a>
-* 🔥 <a href="https://www.producthunt.com/@mishrar" target="_blank" rel="noopener noreferrer">https://www.producthunt.com/@mishrar</a>
+* 🌐 [ramashankarmishra.vercel.app](https://ramashankarmishra.vercel.app/)
+* 💼 [linkedin.com/in/ramashankar-m](https://linkedin.com/in/ramashankar-m)
+* 🔥 [producthunt.com/@mishrar](https://www.producthunt.com/@mishrar)
 
 ---
 
