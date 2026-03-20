@@ -56,11 +56,9 @@ I focus on building things that are:
 
 ## 🚀 Featured Work
 
-> *(Pin your best 3–4 repos on your profile — this section reinforces them)*
-
-* 🧠 Flagship Project → *(your main product)*
+* 🧠 Flagship Project → *Savlekha*
 * 💰 Product Hunt Launch → <a href="https://www.producthunt.com/@mishrar" target="_blank" rel="noopener noreferrer">https://www.producthunt.com/@mishrar</a>
-* ⚙️ Backend / System Project → *(add link)*
+* ⚙️ Backend / System Project → *Svalekha*
 
 ---
 
